@@ -8,4 +8,4 @@ Some notes on setting up the lab equipment and sources. (coming)
 The LaTeX source of the instructions. (coming)
 
 ## tools/
-Some scripts to help with marking.
+Some code to help with checking/marking the lab reports. Original rough python scripts and some more useful notebooks with explanations.
