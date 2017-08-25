@@ -27,6 +27,6 @@ Some rough notes on simple explanations. Most students do not have a physics bac
   - from the Bethe-Bloch equation: dE/dx ~ z<sup>2</sup>/beta<sup>2</sup>
   - fission fragments lose energy much faster
 * Can one alpha decay channel result in more than one peak?
- - No
- - Two body decay conserves energy
- - The alpha particle is released from a discrete energy level of the nucleus
+  - No
+  - Two body decay conserves energy
+  - The alpha particle is released from a discrete energy level of the nucleus
